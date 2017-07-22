@@ -1,4 +1,5 @@
 FROM python:2-slim
+MAINTAINER Sivakumar Vunnam <sivakumarvunnam1@gmail.com>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
